@@ -1,0 +1,28 @@
+Who: OJO Labs
+
+What: We are building a chatbot AI to assist home buyers through their journey. Our platform will eventually expand to encompass other domains as well.
+
+Infrastructure:
+gitlab
+gitlab CI
+new relic
+appsignal
+loggly
+terraform
+kops
+elasticsearch
+AWS
+RDS
+
+Primary platform languages: Python, Typescript, Javascript, Scala, Elixir
+Primary platform infrastructure: kubernetes (via kops) on AWS, data science systems
+
+What we're looking for:
+We're looking for someone who knows their way around systems, high availability solutions, and containers and would like to learn more about the technologies we use, automation, and DevOps practices focused on keeping our services running and our developers productive. We're looking for someone with a high drive to learn but also a willingness to deal with the odd grunt work that comes up with any operations oriented position. Experience with components above a big plus. Knowledge of python also a big plus. 
+
+
+Noteworthy:
+We just got our series B and are looking to augment our DevOps team of 1.
+Developers are 1st tier on-call, as well as responsible for handling their own application roll-outs and deployments.
+We're partners with Realogy, a brokerage franchise including Coldwell Banker, Century 21 and Better Homes and Gardens, and Royal Bank of Canada among others.
+We're going to grow the team significantly and add many new projects, so there will be plenty of opportunities to contribute at a strategic level as we design and implement new systems.
